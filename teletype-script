@@ -1,0 +1,7 @@
+# Script 1
+# This script triggers when data is received
+# Assume we receive data as a simple number for simplicity
+
+CV 1 RX
+
+# Now the CV 1 output will reflect the received value
